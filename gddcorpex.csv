@@ -1,0 +1,33 @@
+id,title,all_authors,category,author_gender,translation,publisher,publication_date,subset,award,dialogue_style
+aug008,Göteborgshändelserna,Jörgen Gassilewski,PRESTIGE,M,no,Albert Bonniers   ,2006,august,August,"mixed orthography, small amounts"
+aug009,Drömfakulteten. Tillägg till sexualteorin,Sara Stridsberg,PRESTIGE,F,no,Albert Bonniers,2006,august,August,”play” orthography
+aug018,Reglerna,Sara Mannheimer,PRESTIGE,F,no,Wahlström & Widstrand,2008,august,August,dash orthography. small amounts
+aug021,Hotel Galicja,Per Agne Erkelius,PRESTIGE,M,no,Norstedts,2009,august,August,dash orthography. small amounts
+aug028,Flod,Carolina Fredriksson,PRESTIGE,F,no,Albert Bonniers,2011,august,August,dialogue unmarked
+aug034,Sång till den storm som ska komma,Peter Fröberg Idling,PRESTIGE,M,no,Natur och Kultur,2012,august,August,"mixed orthography, small amounts"
+aug035,Hägring 38,Kjell Westö,PRESTIGE,M,no,Albert Bonniers,2013,august,August,"dialogue unmarked, small amounts"
+aug043,De utvalda,Steve Sem-Sandberg,PRESTIGE,M,no,Albert Bonniers,2014,august,August,"”play” orthography, small amounts"
+aug044,Spådomen. En flickas memoarer,Agneta Pleijel,PRESTIGE,F,no,Norstedts,2015,august,August,"dialogue unmarked, small amounts"
+aug050,Eländet,Andrzej Tichý,PRESTIGE,M,no,Albert Bonniers,2016,august,August,"dialogue unmarked, embedded in very long paragraphs"
+aug052,Välkommen till Amerika,Linda Boström Knausgård,PRESTIGE,F,no,Modernista,2016,august,August,"dialogue unmarked, small amounts"
+aug063,W,Steve Sem-Sandberg,PRESTIGE,M,no,Albert Bonniers,2019,august,August,"”play” orthography, small amounts"
+aug064,Minnestrådar,Carola Hansson,PRESTIGE,F,no,Albert Bonniers,2020,august,August,main story embedded in monological DSD
+aug066,De fattiga i Łódź,Steve Sem-Sandberg,PRESTIGE,M,no,Albert Bonniers,2009,august,August,"mixed orthography, small amounts"
+aug067,En shtetl i Stockholm,Kenneth Hermele,PRESTIGE,M,no,Weyler,2018,august,August,"mixed orthography, small amounts"
+orig_066,Rovdrift,Joel Wallon,OTHER,M,no,Storytel Original,2020-07-22,original,,a series of recordings equal to the audiobook are part of the plot
+SvB_BS_005,I skuggan av ett brott,Helena Henschen,OTHER,F,no,Bonnier Audio,2008-11-13,bestseller,,"dialogue unmarked, small amounts"
+SvB_BS_048,Norrlands Akvavit,Torgny Lindgren,PRESTIGE,M,no,Norstedts,2007-10-01,bestseller,August,"dialogue unmarked, small amounts"
+SvB_BS_097,Grand final i skojarbranschen,Kerstin Ekman,OTHER,F,no,Bonnier Audio,2011-10-07,bestseller,,dialogue unmarked
+SvB_BS_100,Spill,Sigrid Combüchen,PRESTIGE,F,no,Norstedts,2016-06-10,bestseller,August,mixed orthography in epistolary novel
+SvB_BS_178,Liv till varje pris,Kristina Sandberg,PRESTIGE,F,no,Norstedts,2014-11-27,bestseller,August,"dialogue unmarked, small amounts"
+SvB_BS_183,Att föda ett barn,Kristina Sandberg,OTHER,F,no,Norstedts,2014-12-23,bestseller,,dialogue not marked and embedded in frame narration
+SvB_BS_195,Äkta amerikanska jeans,Jan Guillou,OTHER,M,no,Piratförlaget,2016-08-31,bestseller,,"dialogue unmarked, small amounts"
+SvB_BS_204,I varje ögonblick är vi fortfarande vid liv,Tom Malmquist,PRESTIGE,M,no,Natur & Kultur,2015-10-08,bestseller,Nordiska rådet ,dialogue not marked and embedded in frame narration
+SvB_BS_236,Andningsgunga,Herta Müller,PRESTIGE,F,transl,Wahlström & Widstrand,2009,bestseller,Nobel,"mixed orthography, small amounts"
+SvB_BS_239,Hjärtdjur,Herta Müller,PRESTIGE,F,transl,Bonniers,1996,bestseller,Nobel,"mixed orthography, small amounts"
+SvB_BS_262,Till minne av en villkorslös kärlek,Jonas Gardell,OTHER,M,no,Norstedts,2018-08-24,bestseller,,"dialogue unmarked, small amounts"
+SvB_BS_300,Jag for ner till bror,Karin Smirnoff,PRESTIGE,F,no,Bokförlaget Polaris,2018-10-22,bestseller,August,"dialogue unmarked, speech tags unconventionally without comma"
+SvB_BS_307,Arv och miljö,Vigdis Hjorth,PRESTIGE,F,transl,Natur & Kultur,2018-12-21,bestseller,Nordiska rådet,dialogue not marked and embedded in frame narration
+SvB_BS_315,Sen for jag hem,Karin Smirnoff,OTHER,F,no,Bokförlaget Polaris,2020-04-28,bestseller,,"dialogue unmarked, speech tags unconventionally without comma"
+SvB_BS_326,Vi for upp med mor,Karin Smirnoff,OTHER,F,no,Bokförlaget Polaris,2019-05-02,bestseller,,"dialogue unmarked, speech tags unconventionally without comma"
+SvB_BS_332,Normala människor,Sally Rooney,PRESTIGE,F,transl,Bonnier Audio,2019-09-20,bestseller,Man Booker,dialogue unmarked (as in the English original)
