@@ -2,7 +2,7 @@
 
 **Karl Berglund and Mats Dahllöf**
 
-**Uppsala University**
+**Uppsala University. May 25, 2025.**
 
 ## Data about the books included in the corpus
 
