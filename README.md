@@ -1,8 +1,6 @@
 # Supplementary Materials for the article ‘Genre and the Distribution of Dialogue: Direct Speech and Genre in 500 Contemporary Novels in Swedish’
 
-**Karl Berglund and Mats Dahllöf**
-
-**Uppsala University. May 25, 2025.**
+**May 25, 2025.**
 
 ## Data about the books included in the corpus
 
