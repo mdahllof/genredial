@@ -6,7 +6,7 @@
 
 The corpus data files consist of tables in the form of five comma-separated values (CSV) files:
 
-(1) [`gddcorp.csv`](gddcorp.csv): A csv listing the 501 works in the corpus subjected to the full quantitative analysis. See note below (and the main article) on the selection.
+(1) [`gddcorpus.csv`](gddcorpus.csv): A csv listing the 501 works in the corpus subjected to the full quantitative analysis. See note below (and the main article) on the selection.
 The metadata fields are as follows:
 
 `measure`: The measure, code derived from the tagging or Bring thesurus, or graphical word.
